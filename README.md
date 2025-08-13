@@ -22,4 +22,3 @@ The dashboard allows users to explore and compare data across categories in an o
 
 ---
 
-## 📂 Project Structure
